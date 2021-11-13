@@ -4,15 +4,17 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a 20-year-old second year student of general linguistics in Helsinki University. I'm especially interested in language technology and learning more about programming.
+
+My free-time interests include playing Finnish baseball, reading books (especially psychological thrillers and literary fiction) and playing video games with my friends. 
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/annikarantala)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is annika.rantala@helsinki.fi. 
 
 ## Courses I've Taken
 
