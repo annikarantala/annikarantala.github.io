@@ -11,6 +11,7 @@ My free-time interests and hobbies include playing Finnish baseball, reading boo
 ## Find Me On
 
 [GitHub](https://github.com/annikarantala)
+
 [Goodreads](https://www.goodreads.com/user/show/87518482-annika)
 
 ## How to Contact Me
