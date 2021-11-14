@@ -4,13 +4,21 @@ layout: default
 
 ## Introduction
 
-This course on command-line tools covered various different topics and methods for using the command-line environment. On this page I will briefly describe and illustrate each week's topic, leading up to the final assignment of working with Jekyll and GitHub pages.
+This course on command-line tools covered various different topics and methods for using the command-line environment. On this page I will briefly describe and 
+illustrate each week's topic, leading up to the final assignment of working with Jekyll and GitHub pages.
 
 ## Week 1
 
-The first week of the course served as the introduction to working with command-line environments, and the work included setting up a functional environment on my own device.
+The first week of the course served as the introduction to working with command-line environments, and the work included setting up a working command-line environment 
+on my device. For me this meant installing Ubuntu on my Windows computer, and learning to use it.
+
+The commands I learned to use this week include things like the `cd` and `ls` commands for moving between directories and listing their contents, as well as `wget`
+for downloading things from the internet into my directory. These and other basic commands I learned during this week have been very useful in my work throughout the 
+course, and over time I have managed to acquire a great `touch` for using them. (Pun intended).
 
 ## Week 2
+
+This week's content was centered around navigating a UNIX system and managing files and directories
 
 ## Week 3
 
