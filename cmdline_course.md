@@ -18,7 +18,16 @@ course, and over time I have managed to acquire a great `touch` for using them. 
 
 ## Week 2
 
-This week's content was centered around navigating a UNIX system and managing files and directories
+This week's content was centered around navigating a UNIX system and managing files and directories within that system. I also learned to connect to a remote server
+and change the access rights to a file.
+
+The commands I learned this week that I found myself using the most in the coming weeks and assignments were  
+* `cp` for copying files
+* `mv` for moving files between directories
+* `rm` for deleting files and directories
+* `tar` for extracting .tgz files  
+These commands were needed often in the other weeks' assignments, and they are obviously commands that are very essential to doing any work with command-line environments.
+I familiarized myself with these commands and learned to use them quickly and naturally.
 
 ## Week 3
 
