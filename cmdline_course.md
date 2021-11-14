@@ -25,11 +25,15 @@ The commands I learned this week that I found myself using the most in the comin
 * `cp` for copying files
 * `mv` for moving files between directories
 * `rm` for deleting files and directories
-* `tar` for extracting .tgz files  
-These commands were needed often in the other weeks' assignments, and they are obviously commands that are very essential to doing any work with command-line environments.
+* `tar` for extracting .tgz files
+
+These commands were needed often in the later weeks' assignments, and they are obviously commands that are very essential to doing any work with command-line environments.
 I familiarized myself with these commands and learned to use them quickly and naturally.
 
 ## Week 3
+
+During the third week I learned about different text encoding systems, converting from one text file format to another (Windows vs. UNIX), and the basics of corpus processing
+with command-line tools.
 
 ## Week 4
 
