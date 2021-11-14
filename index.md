@@ -8,6 +8,10 @@ I am a 20-year-old second year student of general linguistics in Helsinki Univer
 
 My free-time interests and hobbies include playing Finnish baseball, reading books (especially psychological thrillers and literary fiction) and playing video games with my friends. 
 
+## CV
+
+My [CV](https://www.overleaf.com/read/vnzvcwxrfzzs)
+
 ## Find Me On
 
 [GitHub](https://github.com/annikarantala)
