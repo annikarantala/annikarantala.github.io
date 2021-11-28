@@ -88,8 +88,7 @@ Learning about and using Makefiles turned out to be interesting as well. Knowing
 building other programs. The tasks turned out quite challenging indeed, and I was not able to complete them all with the success I'd hoped for. However, I still managed to learn the
 basic syntax of Makefiles:
 
-`target: prerequisites
-	recipe` 
+![Syntax of Makefiles](https://cdn.discordapp.com/attachments/820653333299068949/914627790463201291/unknown.png)
 
 Where `target` functions like a function name in programming, `prerequisites` refers to the files or other targets that are used by the `recipe` to create the target. The `recipe`
 itself is a chunk of "instruction code" that the program follows when executing the Makefile in order to create the desires target.
@@ -100,10 +99,14 @@ The topic for this week was version control, and I learned to use GitHub reposit
 and working with GitHub was very pleasant. Learning to use and understand the functions of commands like `git add`, `git commit`, and `git push` was obviously the most integral part of
 this week's material, and especially the "understanding the functions of" part was not quite as simple. As a newbie to any kind of version control mechanisms, I had little to no 
 intuition for how commands such as those work, but after some reading I was able to understand the difference between "committing" and "pushing" the changes I'd made to the contents of
-my repository. Additionally, I found the functionalities of Git branches very interesting.
+my repository. Additionally, I found the functionalities of Git branches very interesting. I feel that knowing the basics of using GitHub will be very helpful for me in my future
+studies and possibly future career paths, so this week's materials were definitely useful and intriguing.
 
 ## Week 8
 
 The last part of the course was to work on this very webpage, both its content and formatting. I learned to use GitHub Pages and Jekyll in order to create everything you've just
 been reading and looking at, and I found the process extremely fascinating and fun. I struggled somewhat with certain Jekyll commands, but I feel confident I was able to sort out
-all the issues. 
+all the issues. The final project seemed daunting in the beginning, but as I've worked on it I have found myself learning a lot about various things, such as markdown formatting and
+how website visuals are created from markdown files. My best friends when working on this have been the already familiar `git add/commit/push` commands, as well as a new acquaintance
+`bundle exec jekyll serve`. The first three have really shown their usefulness in version control and progress saving throughout this project, and the last one has served up the
+website for me to view and look for mistakes in my markdown formatting (which there have been plenty of).
